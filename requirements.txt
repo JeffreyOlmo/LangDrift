@@ -1,0 +1,11 @@
+transformers
+torch>=2.0.0
+numpy
+deepspeed
+vllm
+wandb
+bottle
+tqdm
+regex
+datasets
+sympy  # for math evaluation
