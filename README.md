@@ -1,5 +1,5 @@
 # 🚀🚀🚀 simple_GRPO 🚀🚀🚀
-A very simple GRPO implement for reproducing r1-like LLM thinking.
+A very simple GRPO implement for testing the ability of GRPO to push models outside the natural language distribution. 
 This is a simple open source implementation that utilizes the core loss calculation formula referenced from Hugging Face's trl. 
 We make the simplest codebase to support: 
 - Save the GPU memory to make a feasible and efficient training. 
